@@ -3,4 +3,9 @@ title: SLV Community Resources
 author: GitHub User
 email: steffen.vulpius@gmail.com
 description: A collection of resources
+github_username: varigg
+
+# Build settings
+markdown: kramdown
+theme: minima
 
