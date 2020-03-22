@@ -2,6 +2,7 @@
 layout: page
 title: Restaurants
 permalink: /restaurants/
+nav: true
 ---
 
 This is a list of restaurants currently offering pickup or delivery. Based on Brigit Zent's facebook posts.
